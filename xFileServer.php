@@ -2,8 +2,8 @@
 /**
  * @name FileServer
  * @desc Pushes files out
- * @version v1.0.11.10.18.00.02
- * @author cdpollard@gmail.com
+ * @version v1.1.0
+ * @author x@superdomx.com
  * @see  domain
  * @link fileServer
  * @todo
@@ -45,7 +45,12 @@ class xFileServer extends Xengine{
 		$this->lib('ExtDirect/api.php');
 		exit;
 	}
-	
+
+	function curl($http='')
+	{
+		
+	}
+
 	function getTypeLoc($text,$type){
 		switch($text){
 			case('text'):
