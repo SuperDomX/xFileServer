@@ -2,8 +2,8 @@
 /**
  * @name FileServer
  * @desc Pushes files out
- * @version v1.1.0
- * @author x@superdomx.com
+ * @version v0.1(160710)
+ * @author  @xopherdeep
  * @see  domain
  * @link fileServer
  * @todo
